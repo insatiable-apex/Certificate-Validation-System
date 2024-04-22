@@ -131,6 +131,7 @@ Login Page
 Generate Certificate 
 
 ![image](https://github.com/insatiable-apex/Certificate-Validation-System/assets/77205366/39c2f4d4-9238-4fe0-920c-deda2c7d1d33)
+
 View Certificate Page
 
 ![image](https://github.com/insatiable-apex/Certificate-Validation-System/assets/77205366/e767963b-5054-4da3-ae01-df65ab1738f3)

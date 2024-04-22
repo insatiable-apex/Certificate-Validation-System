@@ -16,8 +16,8 @@ remove_whitespaces()
 
 load_dotenv()
 
-api_key = os.getenv("c95591c9e32bed7d537b")
-api_secret = os.getenv("8d8a606fc45bf6ceafc342f3bd48dd2b740af701e2cf1f9fddf5bbfe94440e27")
+api_key = os.getenv("PINATA_API_KEY")
+api_secret = os.getenv("PINATA_API_SECRET")
 
 
 def upload_to_pinata(file_path, api_key, api_secret):

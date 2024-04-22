@@ -134,9 +134,11 @@ Generate Certificate
 View Certificate Page
 
 ![image](https://github.com/insatiable-apex/Certificate-Validation-System/assets/77205366/e767963b-5054-4da3-ae01-df65ab1738f3)
+
 View Certificate using ID
 
 ![image](https://github.com/insatiable-apex/Certificate-Validation-System/assets/77205366/6ff15a01-6018-4369-9e80-92f4b2c1da1c)
+
 View Certificate by uploading Pdf of Certificate
 
 

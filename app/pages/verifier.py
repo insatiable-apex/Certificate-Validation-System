@@ -33,7 +33,7 @@ if selected == options[0]:
             # Smart Contract Call
             result = contract.functions.isVerified(certificate_id).call()
             if result:
-                st.success("Certificated validated successfully!")
+                st.success("Certificate validated successfully!")
             else:
                 st.error("Invalid Certificate! Certificate might be tampered")
         except Exception as e:
@@ -49,7 +49,7 @@ elif selected == options[1]:
             # Smart Contract Call
             result = contract.functions.isVerified(certificate_id).call()
             if result:
-                st.success("Certificated validated successfully!")
+                st.success("Certificate validated successfully!")
             else:
                 st.error("Invalid Certificate ID!")
         except Exception as e:
